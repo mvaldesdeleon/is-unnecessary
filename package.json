@@ -1,0 +1,21 @@
+{
+  "name": "is-unnecessary",
+  "version": "1.0.0",
+  "description": "Well, is it?",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": "mvaldesdeleon/is-unnecessary",
+  "keywords": [
+    "is",
+    "unnecessary"
+  ],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT"
+}
